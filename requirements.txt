@@ -1,0 +1,9 @@
+# Bibliothèques nécessaires au projet de détection de somnolence
+mediapipe
+opencv-python
+numpy
+pygame
+pyttsx3
+gTTS            # plan B : voix française de Google (internet requis une seule fois, à la génération)
+# Pour lancer les tests (facultatif)
+pytest
